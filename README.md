@@ -29,7 +29,13 @@ This dataset is curated by the KultureHire interns and has over 900 records with
 'Community Engagement (Posts per week)' - How many posts does the channel posts in the Community Section
 'Intern who Collected the Data' - Name of the intern who collected the corresponding record
 
-The link to our Python notebook can be found here : data_cleaning.ipynb
+The link to our Python notebook can be found here : https://github.com/simran-malawat/data-cleaning/blob/a34e71ec8f5e9de550f9a760e31bf10dba9f7d77/data_cleaning.ipynb
+
+1. The dataset can be found on kaggle.com. This dataset is freely available and open sourced. 
+2. The dataset can be particularly useful to influencers on youtube to understand how audiences feel about a particular video based on duration of the video, which gender like what sort of content, watch hours of audiences, etc.
+3. The data was particularly messy and data cleaning steps can be found in our Python notebook.
+4. The dataset required cleaning and we have used Python to do the data pre-processing.
+5. We were able to answer questions like trends in audience interaction on youtube over the years, gender specific analysis of youtube content and engagement, watch hours of audience, duration of videos on youtube. 
 
 Conclusions
 As per the dataset, we can see that more than half of the top 10 channels are by individuals not comapanies. Individuals are giving tough competition to organisations. Males and Companies have equal number of channels in the top and double that of female.
