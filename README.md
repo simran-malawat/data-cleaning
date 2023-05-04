@@ -29,6 +29,8 @@ This dataset is curated by the KultureHire interns and has over 900 records with
 'Community Engagement (Posts per week)' - How many posts does the channel posts in the Community Section
 'Intern who Collected the Data' - Name of the intern who collected the corresponding record
 
+The link to our Python notebook can be found here : data_cleaning.ipynb
+
 Conclusions
 As per the dataset, we can see that more than half of the top 10 channels are by individuals not comapanies. Individuals are giving tough competition to organisations. Males and Companies have equal number of channels in the top and double that of female.
 Although Females are getting less views for their videos, they are getting the most likes for the videos they post compared to Males and Companies by a huge margin.
